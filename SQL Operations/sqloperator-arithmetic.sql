@@ -1,6 +1,6 @@
 create schema simplicode
 create table `simplicode`.`employee`(
-	`id` int not null,
+    `id` int not null,
     `name` varchar(45) null,
     `age` varchar(45) null,
     `city` varchar(45) null,
